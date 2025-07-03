@@ -10,26 +10,23 @@ const CONFIG = {
     PROXIO_HERO_TITLE_2: 'Exploring cuteness and creativity through small things that spark joy',
     PROXIO_HERO_BUTTON_1_TEXT: 'Start Exploring',
     PROXIO_HERO_BUTTON_1_URL: '/products',
-    PROXIO_HERO_BUTTON_2_TEXT: 'Follow on GitHub',
-    PROXIO_HERO_BUTTON_2_URL: 'https://github.com/mango-curation',
-    PROXIO_HERO_BUTTON_2_ICON: '/images/starter/github.svg',
     PROXIO_HERO_BANNER_IMAGE: '',
     PROXIO_HERO_BANNER_IFRAME_URL: '',
 
     PROXIO_BLOG_ENABLE: true,
     PROXIO_BLOG_TITLE: 'Discoveries',
-    PROXIO_BLOG_COUNT: 4,
+    PROXIO_BLOG_COUNT: 6,
     PROXIO_BLOG_TEXT_1: 'Our favorite handpicked pieces',
     PROXIO_BLOG_PLACEHOLDER_IMG_URL_1: '',
     PROXIO_BLOG_PLACEHOLDER_IMG_URL_2: '',
     PROXIO_BLOG_PLACEHOLDER_IMG_URL_3: '',
     PROXIO_BLOG_PLACEHOLDER_IMG_URL_4: '',
-    PROXIO_BLOG_PLACEHOLDER_IMG_URL_4: '',
-    PROXIO_BLOG_PLACEHOLDER_IMG_URL_4: '',
+    PROXIO_BLOG_PLACEHOLDER_IMG_URL_5: '',
+    PROXIO_BLOG_PLACEHOLDER_IMG_URL_6: '',
 
-    PROXIO_ANNOUNCEMENT_ENABLE: true,
+    PROXIO_ANNOUNCEMENT_ENABLE: false,
 
-    PROXIO_FEATURE_ENABLE: true,
+    PROXIO_FEATURE_ENABLE: false,
     PROXIO_FEATURE_TITLE: 'Why Mango Curation',
     PROXIO_FEATURE_TEXT_1: 'We help you find small things that brighten your day',
     PROXIO_FEATURE_TEXT_2: 'Adorable gadgets, curated picks, and positive vibes',
@@ -52,7 +49,7 @@ const CONFIG = {
     PROXIO_FEATURE_BUTTON_TEXT: 'Discover More',
     PROXIO_FEATURE_BUTTON_URL: '/about',
 
-    PROXIO_CAREER_ENABLE: true,
+    PROXIO_CAREER_ENABLE: false,
     PROXIO_CAREER_TITLE: 'Journey',
     PROXIO_CAREER_TEXT: 'A glimpse into our journey so far',
     PROXIO_CAREERS: [
@@ -61,7 +58,7 @@ const CONFIG = {
         { title: 'Spreading Joy', bio: '2025', text: 'Launched Mango Curation as a place to share joy through tiny treasures and friendly vibes.' }
     ],
 
-    PROXIO_TESTIMONIALS_ENABLE: true,
+    PROXIO_TESTIMONIALS_ENABLE: false,
     PROXIO_TESTIMONIALS_TITLE: 'What People Say',
     PROXIO_TESTIMONIALS_TEXT_1: 'Real feedback from our community',
     PROXIO_TESTIMONIALS_TEXT_2: 'Mango Curation has brought joy and playful design into everyday life.',
@@ -80,7 +77,7 @@ const CONFIG = {
         { q: 'How can I contribute?', a: 'If you have a cute or curious product idea, feel free to contact us!' }
     ],
 
-    PROXIO_ABOUT_ENABLE: true,
+    PROXIO_ABOUT_ENABLE: false,
     PROXIO_ABOUT_TITLE: 'About Us',
     PROXIO_ABOUT_TEXT_1: 'Curating cuteness, one gadget at a time',
     PROXIO_ABOUT_TEXT_2: 'Mango Curation is about celebrating charm, design, and human connection through little things.',
@@ -96,7 +93,7 @@ const CONFIG = {
     PROXIO_ABOUT_BUTTON_URL: '/about',
     PROXIO_ABOUT_BUTTON_TEXT: 'Learn More',
 
-    PROXIO_BRANDS_ENABLE: true,
+    PROXIO_BRANDS_ENABLE: false,
     PROXIO_BRANDS: [
         'Cute Finds',
         'Handpicked Joy',
@@ -136,7 +133,7 @@ const CONFIG = {
     PROXIO_404_TEXT: 'The page you are looking for might have been moved or deleted.',
     PROXIO_404_BACK: 'Return Home',
 
-    PROXIO_CTA_ENABLE: true,
+    PROXIO_CTA_ENABLE: flase,
     PROXIO_CTA_TITLE: 'Let’s Connect',
     PROXIO_CTA_TITLE_2: 'Share joy through small things',
     PROXIO_CTA_DESCRIPTION: 'Got a cute idea or curious item? We’d love to hear from you.',
