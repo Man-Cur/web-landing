@@ -133,7 +133,7 @@ const CONFIG = {
     PROXIO_404_TEXT: 'The page you are looking for might have been moved or deleted.',
     PROXIO_404_BACK: 'Return Home',
 
-    PROXIO_CTA_ENABLE: flase,
+    PROXIO_CTA_ENABLE: false,
     PROXIO_CTA_TITLE: 'Let’s Connect',
     PROXIO_CTA_TITLE_2: 'Share joy through small things',
     PROXIO_CTA_DESCRIPTION: 'Got a cute idea or curious item? We’d love to hear from you.',
